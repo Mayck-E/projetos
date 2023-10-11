@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+body{
+    overflow-x: hidden;
+    font-family: 'Autour One';
+    background-color: rgb(161, 211, 255);
+    font-weight: 500;
+}
