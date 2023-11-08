@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import "./style/global.css";
-import Dashboard from "./pages/dashboard/dashboard.jsx";
+import Rotas from './rotas.js';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <Dashboard />
-  
+root.render(<>
+  <Rotas />
+</>
+
 );

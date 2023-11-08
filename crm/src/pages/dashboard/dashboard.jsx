@@ -6,7 +6,7 @@ function Dashboard() {
         <div className="container-fluid">
             <div className="row flex-nowrap">
                 <div className="col-auto col-md-3 col-xl-2 px-sm-2 px-0">
-                <Menu page="dashboard" />
+                    <Menu page="dashboard" />
                 </div>
 
                 <div className="col py-3 me-3">
@@ -19,8 +19,6 @@ function Dashboard() {
                         <button className="btn btn-primary ms-4">Atualizar</button>
                     </div>
 
-                    
-                    
                 </div>
             </div>
         </div>
